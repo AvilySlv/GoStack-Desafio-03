@@ -10,7 +10,6 @@ Esta é uma aplicação que gerência repositórios vindos da API.
 
 ## Como usar
 - :wrench: Use o comando **yarn** para instalar todas as dependências
-- :wrench: Use o comando **yarn start** para iniciar o servidor
 - :wrench: Use o comando **yarn test** para iniciar os testes com o React
 
 ## Agradecimentos
